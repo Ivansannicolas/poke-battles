@@ -1,0 +1,6 @@
+.container {
+  padding: 5px 10px;
+  border: 2px ridge yellow;
+  background-color: orange;
+  display: block;
+}
